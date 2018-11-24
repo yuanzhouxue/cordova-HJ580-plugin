@@ -1,0 +1,25 @@
+{
+  "name": "HJ580",
+  "version": "1.0.0",
+  "description": "HJ580 plugin",
+  "cordova": {
+    "id": "cn.seekecho.hj_plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Yuanzhou Xue",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanzhouxue/cordova-HJ580-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yuanzhouxue/cordova-HJ580-plugin/issues"
+  },
+  "homepage": "https://github.com/yuanzhouxue/cordova-HJ580-plugin#readme"
+}
